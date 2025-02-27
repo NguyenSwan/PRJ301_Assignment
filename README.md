@@ -1,2 +1,2 @@
 # Description
-A cake shop project using HTML, CSS, Bootstrap, JSP 
+A cake shop website using HTML, CSS, Bootstrap, JSP and Severlet
